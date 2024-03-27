@@ -2,7 +2,7 @@
 
 \paper {
   textheight = 285.0\mm
-  line-width = 190.0\mm
+  line-width = 180.0\mm
 }
 
 \layout {

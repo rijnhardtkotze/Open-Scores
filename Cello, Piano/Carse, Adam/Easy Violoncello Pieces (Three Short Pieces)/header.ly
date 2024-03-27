@@ -3,7 +3,7 @@
 \header {
   title = \markup \bold "Three Short Pieces"
   subtitle = "Easy Violoncello Pieces"
+  composer = "Adam Carse"
   subsubtitle = "with Piano Accompaniment"
-  enteredby = "cellolytics (2024-03-11)"
-  piece = \markup \bold \huge \pieceName
+  piece = \markup \bold \pieceName
 }
